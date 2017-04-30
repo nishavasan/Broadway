@@ -12,7 +12,55 @@ header{
   font-weight: bold;
   color:white;}
 
-nav a{
+.topblock nav a{
   display: block;
   font-size: 18px;
   color:white;}
+
+.middleblock h3{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.middleblock h4{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.middleblock p{
+  font-size: 14px;
+}
+
+.newyork{
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+}
+
+.newyork h3{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.bottomblock h4{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.bottomblock p{
+    font-size: 14px;
+}
+
+#footer{
+  background-color: dimgray;
+  color:white;
+}
+
+#footer p{
+  text-align: left;
+  font-size: 11px;
+}
+
+#footer p a{
+  font-size: 18px;
+  color:white;
+}
